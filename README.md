@@ -1,1 +1,2 @@
-# MyFirstDotNetApp
+# MyFirstDotNetApp 
+Henüz tamamlanmamıştır.
